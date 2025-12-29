@@ -1,5 +1,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lawofcycles&theme=dracula)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lawofcycles&show_icons=true&theme=dark)
 <!--
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawofcycles&layout=compact&theme=dracula">
